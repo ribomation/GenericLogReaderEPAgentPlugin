@@ -1,5 +1,7 @@
+Generic LogReader EPAgent
+=========================
 
-Introscope EPAgent stateful plugin, for extracting metric data from logfiles
+Introscope EPAgent stateful plugin, for extracting metric data from logfiles.
 
 
 
