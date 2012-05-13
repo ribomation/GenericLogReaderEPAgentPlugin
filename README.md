@@ -6,7 +6,7 @@ Introscope EPAgent stateful plugin, for extracting metric data from logfiles.
 Disclaimer
 ----------
 
-*Introscope is a commercial tool for application performance management (APM) of (large) Java applications in production. EPAgent is a stand-alone agent that can execute scripts that retrieve performance from non-Java systems. You need to have a valid licens*
+*Introscope is a commercial tool for application performance management (APM) of (large) Java applications in production. EPAgent is a stand-alone agent that can execute scripts that retrieve performance from non-Java systems. You need to have a valid license of Introscope.*
 
 Requirements
 ------------
