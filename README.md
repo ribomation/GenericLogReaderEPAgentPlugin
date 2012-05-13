@@ -30,8 +30,8 @@ The command below runs the log-reader with a sample log-entry handler named *Apa
 	<metric type="IntAverage" name="Apache Access|/ws/GetMessage|IP|123.456.789.123|OK:Elapsed Time [ms]" value="433"/>
 	<metric type="IntAverage" name="Apache Access|/ws|IP|123.456.789.123|OK:Elapsed Time [ms]" value="779"/>
 	<metric type="IntAverage" name="Apache Access|/ws/GetMessage|IP|123.456.789.123|OK:Elapsed Time [ms]" value="433"/>
-	<metric type="IntAverage" name="Apache Access|/ws|IP|1123.456.789.123|OK:Elapsed Time [ms]" value="2128"/>
-	<metric type="IntAverage" name="Apache Access|/ws|IP|1123.456.789.123|OK:Elapsed Time [ms]" value="394"/>
+	<metric type="IntAverage" name="Apache Access|/ws|IP|123.456.789.123|OK:Elapsed Time [ms]" value="2128"/>
+	<metric type="IntAverage" name="Apache Access|/ws|IP|123.456.789.123|OK:Elapsed Time [ms]" value="394"/>
 		 . . .
 
 
